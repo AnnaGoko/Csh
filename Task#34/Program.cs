@@ -25,6 +25,6 @@ for (int a = 0; a < length; a++)
     }
 }
 Console.WriteLine($"Количество четных элементов массива: {meter}");
-void PrintArray(int [] NewArray ){
-    Console.WriteLine(string.Join( ", " , NewArray));
-}
+//void PrintArray(int [] NewArray ){
+//    Console.WriteLine(string.Join( ", " , NewArray));
+//}

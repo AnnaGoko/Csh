@@ -25,6 +25,6 @@ while (a < length)
 }
 
 Console.WriteLine($"Сумма элементов массива: {sum}");
-void PrintArray(int [] NewArray ){
-    Console.WriteLine(string.Join( ", " , NewArray));
-}
+//void PrintArray(int [] NewArray ){
+//    Console.WriteLine(string.Join( ", " , NewArray));
+//}

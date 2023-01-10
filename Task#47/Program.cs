@@ -37,8 +37,3 @@ void PrintArray(int[,] finalarray)
     }
 }
 
-
-
-//void PrintArray(int [,] finalarray ){
-//    Console.WriteLine(string.Join( ", " , finalarray));
-//}
